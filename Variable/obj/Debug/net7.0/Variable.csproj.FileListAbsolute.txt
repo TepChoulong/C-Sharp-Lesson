@@ -1,0 +1,15 @@
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\Variable.csproj.AssemblyReference.cache
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\Variable.AssemblyInfoInputs.cache
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\Variable.AssemblyInfo.cs
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\Variable.csproj.CoreCompileInputs.cache
+F:\GitHub\C_Sharp-Lesson\Variable\bin\Debug\net7.0\Variable.exe
+F:\GitHub\C_Sharp-Lesson\Variable\bin\Debug\net7.0\Variable.deps.json
+F:\GitHub\C_Sharp-Lesson\Variable\bin\Debug\net7.0\Variable.runtimeconfig.json
+F:\GitHub\C_Sharp-Lesson\Variable\bin\Debug\net7.0\Variable.dll
+F:\GitHub\C_Sharp-Lesson\Variable\bin\Debug\net7.0\Variable.pdb
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\Variable.dll
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\refint\Variable.dll
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\Variable.pdb
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\Variable.genruntimeconfig.cache
+F:\GitHub\C_Sharp-Lesson\Variable\obj\Debug\net7.0\ref\Variable.dll

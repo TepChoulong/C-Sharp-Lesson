@@ -1,0 +1,15 @@
+F:\GitHub\C_Sharp-Lesson\Output\bin\Debug\net7.0\Output.exe
+F:\GitHub\C_Sharp-Lesson\Output\bin\Debug\net7.0\Output.deps.json
+F:\GitHub\C_Sharp-Lesson\Output\bin\Debug\net7.0\Output.runtimeconfig.json
+F:\GitHub\C_Sharp-Lesson\Output\bin\Debug\net7.0\Output.dll
+F:\GitHub\C_Sharp-Lesson\Output\bin\Debug\net7.0\Output.pdb
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\Output.csproj.AssemblyReference.cache
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\Output.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\Output.AssemblyInfoInputs.cache
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\Output.AssemblyInfo.cs
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\Output.csproj.CoreCompileInputs.cache
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\Output.dll
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\refint\Output.dll
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\Output.pdb
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\Output.genruntimeconfig.cache
+F:\GitHub\C_Sharp-Lesson\Output\obj\Debug\net7.0\ref\Output.dll
