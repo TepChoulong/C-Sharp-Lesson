@@ -1,5 +1,4 @@
-
-<!-- GETTING STARTED -->
+<!-- TITLE -->
 # C-Sharp-Lesson
 
 
@@ -23,14 +22,14 @@
   </ol>
 </details>
 
-
+<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 These are the fundamental of C# with examples. If there are any problems about that lesson, please tell us we will fix it. I hope it helps you for your C# journey.
 
-
+<br>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -38,6 +37,7 @@ These are the fundamental of C# with examples. If there are any problems about t
 This is an example of a C# fundamental for beginner.
 To get a local copy up and running follow these simple example steps.
 
+<br>
 
 ### Downloading
 
@@ -48,7 +48,7 @@ _Below is an example of how you can instruct your audience on installing and set
 3. After you have finished downloading the file, unzip it.
 4. Enjoy your code
 
-
+<br>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -64,14 +64,14 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+<br>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
+<br>
 
 <!-- CONTACT -->
 ## Contact
